@@ -106,10 +106,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct one">Select One</option>
-                                    <option value="1">Managing Director</option>
-                                    <option value="2">Chairman</option>
-                                    <option value="3">Director</option>
-                                    <option value="4">General Manager</option>
+                
                                 </select>
                             </div>
                         </div>
@@ -120,9 +117,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct one">Select One</option>
-                                    <option value="1">Office1</option>
-                                    <option value="2">Office2</option>
-                                    <option value="3">Office3</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -133,10 +128,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct one">Select One</option>
-                                    <option value="1">General</option>
-                                    <option value="2">Office Staff</option>
-                                    <option value="3">RAMADAN</option>
-                                    <option value="3">RS</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -158,10 +150,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct office floor">Select One</option>
-                                    <option value="1">1st Floor</option>
-                                    <option value="2">2nd Floor</option>
-                                    <option value="3">3rd Floor</option>
-                                    <option value="4">4th Floor</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -172,10 +161,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct dept">Select One</option>
-                                    <option value="1">Admin</option>
-                                    <option value="2">Production Staff</option>
-                                    <option value="3">Sample</option>
-                                    <option value="4">Cutting</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -186,9 +172,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct One">Select One</option>
-                                    <option value="1">Administration</option>
-                                    <option value="2">Production Staff</option>
-                                    <option value="3">Sample</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -245,9 +229,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct grade">Select One</option>
-                                    <option value="1">Grade-1</option>
-                                    <option value="2">Grade-2</option>
-                                    <option value="3">Grade-3</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -274,10 +256,7 @@
                             <div class="col-sm-8">
                                 <select class="form-select" aria-label="Default select example">
                                     <option selected placeholder="Selct emp_type">Select One</option>
-                                    <option value="1">Test Type Employee</option>
-                                    <option value="2">Contractual</option>
-                                    <option value="3">Permanent</option>
-                                    <option value="4">Full-time</option>
+                                    
                                 </select>
                             </div>
                         </div>
@@ -304,8 +283,7 @@
                             <div class="col-sm-8">
                               <select class="form-select" aria-label="Default select example">
                                 <option selected placeholder="Selct work_type">Select One</option>
-                                <option value="1">Laber</option>
-                                <option value="2">Worker</option>
+                                
                                 
                               </select>
                             </div>
@@ -317,9 +295,7 @@
                             <div class="col-sm-8">
                               <select class="form-select" aria-label="Default select example">
                                 <option selected placeholder="Selct emp_grp">Select One</option>
-                                <option value="1">Admin Officer</option>
-                                <option value="2">Test Group A</option>
-                                <option value="3">Test Group B</option>
+                                
                                 
                               </select>
                             </div>
@@ -331,8 +307,7 @@
                             <div class="col-sm-8">
                               <select class="form-select" aria-label="Default select example">
                                 <option selected placeholder="Selct manager">Select One</option>
-                                <option value="1">1002(Ms. Kona Akter)</option>
-                                <option value="2">1003(Ms. Rina Akter)</option>
+                                
                               </select>
                             </div>
                         </div>
@@ -395,11 +370,7 @@
                              <div class="col-sm-8">
                             <select class="form-select" aria-label="Default select example" >
                                 <option selected placeholder="Select Payment Mode">Cash</option>
-                                <option value="1">Cash</option>
-                                <option value="2">Bank</option>
-                                <option value="3">Bkash</option>
-                                <option value="4">Nagad</option>
-                                <option value="5">Rocket</option>
+                                
                               </select>
                              </div>
                           </div>
