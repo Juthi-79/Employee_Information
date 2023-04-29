@@ -18,4 +18,12 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/index',[EmployeeController::class,'index'])->name('index');
+Route::get('/table', function () {
+    return view('table');
+});
+
+Route::get('/form', function () {
+    return view('form');
+});
+
+Route::get('/',[EmployeeController::class,'index'])->name('index');
