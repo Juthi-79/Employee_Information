@@ -87,7 +87,7 @@
                                   <label for="com" class="col-sm-4 col-form-label">Company :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -99,7 +99,7 @@
                                   <label for="dept" class="col-sm-4 col-form-label">Department :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -113,7 +113,7 @@
                                   <label for="sec" class="col-sm-4 col-form-label">Section :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -125,7 +125,7 @@
                                   <label for="floor" class="col-sm-4 col-form-label">Floor No :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -139,7 +139,7 @@
                                   <label for="line" class="col-sm-4 col-form-label">Line No :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -151,7 +151,7 @@
                                   <label for="desi" class="col-sm-4 col-form-label">Designation :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -165,7 +165,7 @@
                                   <label for="emp_type" class="col-sm-4 col-form-label">Emp Type :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -177,7 +177,7 @@
                                   <label for="grade" class="col-sm-4 col-form-label">Grade :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -191,7 +191,7 @@
                                   <label for="shift" class="col-sm-4 col-form-label">Shift :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -203,7 +203,7 @@
                                   <label for="cal_code" class="col-sm-4 col-form-label">Cal Code :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -217,7 +217,7 @@
                                   <label for="week_off" class="col-sm-4 col-form-label">Weekly Off :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>
@@ -229,7 +229,7 @@
                                   <label for="oper" class="col-sm-4 col-form-label">Operation :</label>
                                   <div class="col-sm-7">
                                       <select class="form-select" aria-label="Default select example">
-                                          <option selected placeholder="Selct one">Select One</option>
+                                          <option selected placeholder="Select one">Select One</option>
                                       </select>
                                   </div>
                               </div>                          
@@ -944,8 +944,8 @@
                               <input type="text" class="form-control" name="name_eng" id="name_eng" placeholder="Name in English"/>
                            </div>
                            <div class="col-sm-4">
-                            <input type="text" class="form-control" name="name_bang" id="name_bang" placeholder="Name in Bangla"/>
-                         </div>
+                                <input type="text" class="form-control" name="name_bang" id="name_bang" placeholder="Name in Bangla"/>
+                            </div>
                         </div>
 
                          {{-- Relation with nominee --}}
