@@ -18,20 +18,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/table', function () {
-    return view('table');
-});
-
 Route::get('/form', function () {
     return view('form');
-});
-
-Route::get('/leave', function () {
-    return view('leave');
-});
-
-Route::get('/entry', function () {
-    return view('entry');
 });
 
 Route::get('/',[EmployeeController::class,'index'])->name('index');
